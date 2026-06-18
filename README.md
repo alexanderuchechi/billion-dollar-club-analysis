@@ -34,7 +34,7 @@ Unicorn companies are privately owned startups valued at over $1 billion. This P
 
 [Link to the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjAyNmMxMTEtZjQyYy00NzY3LTg0ODgtZTQ2N2RlMThjMDMyIiwidCI6IjQ2MmRiMWY5LWIxMTktNGIzYi1iMDc2LTVhNGZmMzc3NDcyZSJ9&disablecdnExpiration=1780066371)
 
-## Data Cleanig & Transformation
+## Data Cleanig & Transformation 
 The dataset was cleaned and transformed using Power Query in Power BI by:
 - Removing duplicate records.
 - Handling missing and inconsistent values.
