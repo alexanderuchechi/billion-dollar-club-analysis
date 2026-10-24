@@ -3,7 +3,7 @@
 ![Header Image](Header-image.png)
 
 ## Executive Summary
-This dashboard analyzes the global unicorn market, highligting company valuation, industry performance, geographical distribution, and funding trends.The dataset contains approximately 1,000 unicorn companies with a combined valuation of $3.711 trillion and an average valuation of $3.46 billion.
+This dashboard analyzes the global unicorn market, highlighting company valuation, industry performance, geographical distribution, and funding trends.The dataset contains approximately 1,000 unicorn companies with a combined valuation of $3.711 trillion and an average valuation of $3.46 billion.
 
 ## Business Context
 Unicorn companies are privately owned startups valued at over $1 billion. This Power BI dashboard was developed to analyze the global unicorn ecosystem, identify valuation trends, compare industry performance, and understand the relationship between funding and company valuation.
@@ -21,7 +21,7 @@ Unicorn companies are privately owned startups valued at over $1 billion. This P
   ## Data Preview
   ![Data preview](Preview-data.png)
 
-  ## Key findings
+  ## Key Findings
 - The global unicorn market is valued at $3.711 trillion.
 - There are approximately 1,000 unicorn companies in the dataset.
 - Startups take an average of 7 years to achieve unicorn status.
@@ -34,7 +34,7 @@ Unicorn companies are privately owned startups valued at over $1 billion. This P
 
 [Link to the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjAyNmMxMTEtZjQyYy00NzY3LTg0ODgtZTQ2N2RlMThjMDMyIiwidCI6IjQ2MmRiMWY5LWIxMTktNGIzYi1iMDc2LTVhNGZmMzc3NDcyZSJ9&disablecdnExpiration=1780066412)
 
-## Data Cleanig & Transformation 
+## Data Cleaning & Transformation 
 The dataset was cleaned and transformed using Power Query in Power BI by:
 - Removing duplicate records.
 - Handling missing and inconsistent values.
